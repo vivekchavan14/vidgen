@@ -1,1 +1,12 @@
 node_modules
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+.env
+.env.local
+.next/
+dist/
+build/
+*.log
